@@ -151,6 +151,12 @@ The model can be evaluated using:
 * Confusion Matrix
 * Training and validation accuracy graphs
 * Training and validation loss graphs
+## Trained Model
+
+The trained model file is not included in this repository because it exceeds GitHub's file-size limit.
+
+Train the model using `cnn.ipynb`, or place the trained model file in the project directory before running the Streamlit application.
+
 
 ## Challenges Faced
 
