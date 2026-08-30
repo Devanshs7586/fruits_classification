@@ -204,8 +204,4 @@ The Fresh and Rotten Fruit Classification project demonstrates how CNNs can be u
 
 The trained model can identify the condition of a fruit from an image and provide predictions through a simple Streamlit interface. This project can help automate fruit-quality checking and reduce food waste.
 
-## Author
 
-**Name:** Your Name
-**Project:** Fresh and Rotten Fruit Classification
-**Technology:** CNN, TensorFlow, Keras and Streamlit
